@@ -1,0 +1,15 @@
+[project]
+name = "models"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ncnn>=1.0.20241226",
+    "numpy>=2.2.4",
+    "opencv-python>=4.11.0.86",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "ultralytics>=8.3.23",
+]
