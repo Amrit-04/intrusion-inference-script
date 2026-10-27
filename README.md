@@ -27,7 +27,7 @@ A real-time PPE (Personal Protective Equipment) detection and intrusion detectio
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/video-detection-system.git
+git clone https://github.com/Amrit-04/intrusion-inference-script.git
 cd video-detection-system
 ```
 
